@@ -1,4 +1,4 @@
-# **Holehe OSINT - Email to Registered Accounts**
+# **Holehe OSINT - Email to Registered Accounts**foazsobhan@gmail.com
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
 megadose@protonmail.com
 
@@ -238,4 +238,4 @@ Built for educational purposes only.
 | xnxx                | xnxx.com                               | register          | ✔               |
 | xvideos             | xvideos.com                            | register          | ✘               |
 | yahoo               | yahoo.com                              | login             | ✔               |
-| zoho                | zoho.com                               | login             | ✔               |
+| zoho                | zoho.com             
